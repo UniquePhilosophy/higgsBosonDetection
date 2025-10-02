@@ -1,19 +1,10 @@
-# Virtual Environment
 higgsBosonVenv/
-
-# Data files
 data/*.root
-
-# Python cache
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
-
-# IDE and editor directories
 .vscode/
 .idea/
-
-# OS-specific files
 .DS_Store
 Thumbs.db
